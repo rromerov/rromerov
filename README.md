@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning, data science and AI**
 
-- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib,Seaborn**
+- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib and Seaborn**
 
 - 📫 How to reach me **robrom201245@gmail.com**
 
