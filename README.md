@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roberto Romero Vielma</h1>
-<h3 align="center">I'm a Master in Applied Artificial Intelligence (MNA) student at the Tec de Monterrey</h3>
+<h3 align="center">I'm a Master in Applied Artificial Intelligence (MNA) student at the Tec de Monterrey.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Business Intelligence and Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Business Intelligence and Artificial Intelligence.**
 
-- 💬 Ask me about **Python, NumPy, Pandas, Scikit-learn, Geopandas, Matplotlib, Prophet and Seaborn**
+- 💬 Ask me about **Python, NumPy, Pandas, Scikit-learn, Geopandas, Matplotlib, Prophet and Seaborn.**
 
 - 📫 How to reach me **robrom201245@gmail.com**
 
